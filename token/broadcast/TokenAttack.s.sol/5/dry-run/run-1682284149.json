@@ -1,0 +1,33 @@
+{
+  "transactions": [
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xC4a4764a697546e5c0338bBe87FD8f0c8f493f8C",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://goerli.infura.io/v3/0138f6badd8d4e61b1f0cabfb83b0a3a",
+      "transaction": {
+        "type": "0x02",
+        "from": "0x1804c8ab1f12e6bbf3894d4083f33e07309d1f38",
+        "to": "0xc4a4764a697546e5c0338bbe87fd8f0c8f493f8c",
+        "gas": "0x10922",
+        "value": "0x0",
+        "data": "0xa9059cbb000000000000000000000000b4802b28895ec64406e45db504149bfe79a38a570000000000000000000000000000000000000000000000000000000000000015",
+        "nonce": "0x2",
+        "accessList": []
+      },
+      "additionalContracts": []
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [],
+  "path": "/home/trbiv/eth/ethernaut_foundry/token/broadcast/TokenAttack.s.sol/5/dry-run/run-latest.json",
+  "returns": {},
+  "timestamp": 1682284149,
+  "chain": 5,
+  "multi": false,
+  "commit": "a2215ea"
+}
