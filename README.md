@@ -1,3 +1,1 @@
-build with: forge build
-
-run tests with: forge test
+Solutions for Ethernaut challenges. Each folder is a foundry project. 
